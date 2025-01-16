@@ -1,0 +1,2 @@
+0_Hello_Python - https://colab.research.google.com/drive/1LRUaprMEQjj4rSF8_s7GlmnAoynbeBTk?usp=sharing
+2 Условные - конструкции - https://colab.research.google.com/drive/1i3P4S6RABSghLbKEDeC-L45y-gAOdChH?usp=sharing
