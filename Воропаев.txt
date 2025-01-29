@@ -1,2 +1,3 @@
 0_Hello_Python - https://colab.research.google.com/drive/1LRUaprMEQjj4rSF8_s7GlmnAoynbeBTk?usp=sharing
 2 Условные - конструкции - https://colab.research.google.com/drive/1i3P4S6RABSghLbKEDeC-L45y-gAOdChH?usp=sharing
+3_занятие_циклы.ipynb - https://colab.research.google.com/drive/1rku7-ryesqK1oVmpZOsleQf6pVWqOUkG?usp=sharing
