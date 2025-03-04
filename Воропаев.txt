@@ -6,3 +6,4 @@
 6_строки_и_индексы - https://colab.research.google.com/drive/1Ut345D5-x6b4bbnFxip7FqLhrPt1faNe?usp=sharing
 7_строки_срезы - https://colab.research.google.com/drive/1BKHrXyzdlrNgV-InxRDSz7WzS32YEBYX?usp=sharing
 10_списки - https://colab.research.google.com/drive/11AGDexwekc4qAwplhh4yNIzCamM_K1_z?usp=sharing
+11_кортежи - https://colab.research.google.com/drive/1YPp_tcQ8ggp8c_EkDqiuBL9Q-l9-RajB?usp=sharing
