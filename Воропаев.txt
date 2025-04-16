@@ -11,3 +11,4 @@
 13_методы_списков_и_строк - https://colab.research.google.com/drive/1CpppUUf6D9uzKUhFinHeozn9QiTIJpqq?usp=sharing
 14_вложенные_списки - https://colab.research.google.com/drive/17MEb2oCjRLzhP06nAZg6qeQRd4L69jUD?usp=sharing
 15_словари - https://colab.research.google.com/drive/1yYe8XxTyWhb2BstV-hxXv9neoKZWL4H7?usp=sharing
+16_функции_основы - https://colab.research.google.com/drive/1H11a6yVO8mdR2z52PnXiMCCcVdPNZnrp?usp=sharing
