@@ -13,3 +13,4 @@
 15_словари - https://colab.research.google.com/drive/1yYe8XxTyWhb2BstV-hxXv9neoKZWL4H7?usp=sharing
 16_функции_основы - https://colab.research.google.com/drive/1H11a6yVO8mdR2z52PnXiMCCcVdPNZnrp?usp=sharing
 17_функции_возврат_значений - https://colab.research.google.com/drive/1H1LU914fL-v69JWPZz9_RVOmAfhmbhFI?usp=sharing
+18_функции_области_видимости_переменных - https://colab.research.google.com/drive/13tYF4rNoHxshCNvb_ZfEQ2593e90CY_8?usp=sharing
