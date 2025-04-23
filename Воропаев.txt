@@ -12,3 +12,4 @@
 14_вложенные_списки - https://colab.research.google.com/drive/17MEb2oCjRLzhP06nAZg6qeQRd4L69jUD?usp=sharing
 15_словари - https://colab.research.google.com/drive/1yYe8XxTyWhb2BstV-hxXv9neoKZWL4H7?usp=sharing
 16_функции_основы - https://colab.research.google.com/drive/1H11a6yVO8mdR2z52PnXiMCCcVdPNZnrp?usp=sharing
+17_функции_возврат_значений - https://colab.research.google.com/drive/1H1LU914fL-v69JWPZz9_RVOmAfhmbhFI?usp=sharing
