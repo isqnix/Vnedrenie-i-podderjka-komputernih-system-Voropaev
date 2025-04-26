@@ -15,3 +15,5 @@
 17_функции_возврат_значений - https://colab.research.google.com/drive/1H1LU914fL-v69JWPZz9_RVOmAfhmbhFI?usp=sharing
 18_функции_области_видимости_переменных - https://colab.research.google.com/drive/13tYF4rNoHxshCNvb_ZfEQ2593e90CY_8?usp=sharing
 19_функции_передача_параметров - https://colab.research.google.com/drive/1dwQ76Czbgbyaj16mKQN0QyqtsBGwYGzR?usp=sharing
+20_функции_с_переменным_числом_аргументов - https://colab.research.google.com/drive/14sTK-VGlRkQJCbWfU5CUFyyrXRb2YhBj?usp=sharing
+21_лямбда - https://colab.research.google.com/drive/1_hHh22BUMFFV2YoxMNGrBWJZWZPldSxP?usp=sharing
